@@ -1,4 +1,4 @@
-# Sudarshanan!  
+# Sudarshanan
 [Programmer](https://github.com/SudarshananGSS) | [AI Software Developer](https://www.linkedin.com/in/sudarshanan-santharam-9a596a192/)
 
 ---
@@ -51,17 +51,16 @@
 
 ## 🤝 Connect with Me:
 
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]  
+[<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
 
 <br/><br/>
 
 ---
 
-[twitter]: https://twitter.com/your_twitter_handle  
-[youtube]: https://www.youtube.com/@yourchannel  
-[instagram]: https://www.instagram.com/your_instagram/  
-[linkedin]: https://linkedin.com/in/sudarshanan
+[linkedin]: https://www.linkedin.com/in/sudarshanan-santharam-9a596a192/
+[email]: mailto:sudarshanangss@gmail.com
+[website]: https://sudarshanangss.github.io/Personal-Website/
+
 
