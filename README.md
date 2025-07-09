@@ -12,7 +12,6 @@
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/sudarshanan-santharam-9a596a192/](https://www.linkedin.com/in/sudarshanan-santharam-9a596a192/)
 - 📧 **Email**: [sudarshanangss@gmail.com](mailto:sudarshanangss@gmail.com), [S4085030@student.rmit.edu.au](mailto:S4085030@student.rmit.edu.au)
 - 🌐 **Personal Website**: [https://sudarshanangss.github.io/Personal-Website/](https://sudarshanangss.github.io/Personal-Website/)
----
 
 ## 👨‍💻 Software Development Projects:
 
@@ -35,20 +34,13 @@
   - [Movie Recommendation System using kNN & Matrix Factorization](https://github.com/SudarshananGSS/Movie-Recommendation-System)
   - [RL-based Packet Scheduling for Routers (OpenAI Gym)](https://github.com/SudarshananGSS/RL-Packet-Scheduling)
 
----
-
 ## 🏆 Hobbies & Achievements:
 
 - 🧠 Completed **Azure AI Fundamentals Certification**
 - 💡 Developed multiple ML prototypes using Python & Scikit-learn
-
----
 
 ## 📺 Featured Videos & Presentations:
 
 - [How to build a Java Project with Unit Testing and GitHub Integration](#)
 - [Movie Recommender System: Explained in 3 Minutes](#)
 - [RL-based Network Packet Scheduling Explained](#)
-
-
-
