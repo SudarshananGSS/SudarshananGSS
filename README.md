@@ -13,7 +13,7 @@
 ## 📫 Contact Information:
 
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/sudarshanan-santharam-9a596a192/](https://www.linkedin.com/in/sudarshanan-santharam-9a596a192/)
-- 📧 **Email**: [sudarshanan.gss@gmail.com](mailto:sudarshanan.gss@gmail.com), [S4085030@student.rmit.edu.au](mailto:S4085030@student.rmit.edu.au)
+- 📧 **Email**: [sudarshanangss@gmail.com](mailto:sudarshanangss@gmail.com), [S4085030@student.rmit.edu.au](mailto:S4085030@student.rmit.edu.au)
 - 🌐 **Personal Website**: [https://sudarshanangss.github.io/Personal-Website/](https://sudarshanangss.github.io/Personal-Website/)
 ---
 
