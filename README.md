@@ -10,6 +10,12 @@
 💞 I’m looking to collaborate on **ML**, **SDE**, and **QA** projects
 
 ---
+## 📫 Contact Information:
+
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/sudarshanan-santharam-9a596a192/](https://www.linkedin.com/in/sudarshanan-santharam-9a596a192/)
+- 📧 **Email**: [sudarshanan.gss@gmail.com](mailto:sudarshanan.gss@gmail.com), [S4085030@student.rmit.edu.au](mailto:S4085030@student.rmit.edu.au)
+- 🌐 **Personal Website**: [https://sudarshanangss.github.io/Personal-Website/](https://sudarshanangss.github.io/Personal-Website/)
+---
 
 ## 👨‍💻 Software Development Projects:
 
@@ -47,20 +53,5 @@
 - [Movie Recommender System: Explained in 3 Minutes](#)
 - [RL-based Network Packet Scheduling Explained](#)
 
----
-
-## 🤝 Connect with Me:
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]  
-[<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
-
-<br/><br/>
-
----
-
-[linkedin]: https://www.linkedin.com/in/sudarshanan-santharam-9a596a192/
-[email]: mailto:sudarshanangss@gmail.com
-[website]: https://sudarshanangss.github.io/Personal-Website/
 
 
