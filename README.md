@@ -1,4 +1,9 @@
-<h1>Hi, I'm Sudarshanan! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Sudarshanan! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">AI Software Developer</a>
+
+👋 Hi, I’m Sudarshanan
+👀 I’m interested in Software Development, Machine Learning, and Quality Assurance
+🌱 I’m a CS(AI) graduate from the University of Southern California with 7 years of industry experience
+💞️ I’m looking to collaborate on ML, SDE, and QA projects
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
