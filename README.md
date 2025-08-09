@@ -7,13 +7,13 @@
 💼 I have industry experience in automation testing, scripting, and backend development  
 💞 I’m looking to collaborate on **ML**, **SDE**, and **QA** projects
 
-## 📫 Contact Information:
+## Contact Information:
 
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/sudarshanan-santharam-9a596a192/](https://www.linkedin.com/in/sudarshanan-santharam-9a596a192/)
 - 📧 **Email**: [sudarshanangss@gmail.com](mailto:sudarshanangss@gmail.com), [S4085030@student.rmit.edu.au](mailto:S4085030@student.rmit.edu.au)
 - 🌐 **Personal Website**: [https://sudarshanangss.github.io/Personal-Website/](https://sudarshanangss.github.io/Personal-Website/)
 
-## 👨‍💻 Software Development Projects:
+## Software Development Projects:
 
 - **Data Structures and Algorithms**
   - [Practicing DS & Algos in Python](https://github.com/SudarshananGSS/Algorithms-Practice)
@@ -36,11 +36,5 @@
 
 ## 🏆 Hobbies & Achievements:
 
-- 🧠 Completed **Azure AI Fundamentals Certification**
-- 💡 Developed multiple ML prototypes using Python & Scikit-learn
-
-## 📺 Featured Videos & Presentations:
-
-- [How to build a Java Project with Unit Testing and GitHub Integration](#)
-- [Movie Recommender System: Explained in 3 Minutes](#)
-- [RL-based Network Packet Scheduling Explained](#)
+- Completed **Azure AI Fundamentals Certification**
+- Developed multiple ML prototypes using Python & Scikit-learn
