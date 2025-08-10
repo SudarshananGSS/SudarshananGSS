@@ -13,6 +13,7 @@
 - 📧 **Email**: [sudarshanangss@gmail.com](mailto:sudarshanangss@gmail.com), [S4085030@student.rmit.edu.au](mailto:S4085030@student.rmit.edu.au)
 - 🌐 **Personal Website**: [https://sudarshanangss.github.io/Personal-Website/](https://sudarshanangss.github.io/Personal-Website/)
 
+<!-- 
 ## Software Development Projects:
 
 - **Data Structures and Algorithms**
@@ -37,4 +38,4 @@
 ## 🏆 Hobbies & Achievements:
 
 - Completed **Azure AI Fundamentals Certification**
-- Developed multiple ML prototypes using Python & Scikit-learn
+- Developed multiple ML prototypes using Python & Scikit-learn -->
