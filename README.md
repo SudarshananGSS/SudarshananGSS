@@ -1,17 +1,17 @@
 # Sudarshanan
 [Programmer](https://github.com/SudarshananGSS) | [AI Software Developer](https://www.linkedin.com/in/sudarshanan-santharam-9a596a192/)
 
-👋 Hi, I’m **Sudarshanan**  
-👀 I’m interested in **Software Development**, **Machine Learning**, and **Quality Assurance**  
-🎓 I’m currently pursuing my **Master of Information Technology (AI focus)** at **RMIT University**  
-💼 I have industry experience in automation testing, scripting, and backend development  
-💞 I’m looking to collaborate on **ML**, **SDE**, and **QA** projects
+Hi, I’m **Sudarshanan**  
+ -> I’m interested in **Software Development**, **Machine Learning**, and **Quality Assurance**  
+ -> I’m currently pursuing my **Master of Information Technology (AI focus)** at **RMIT University**  
+ -> I have industry experience in automation testing, scripting, and backend development  
+ -> I’m looking to collaborate on **ML**, **SDE**, and **QA** projects
 
 ## Contact Information:
 
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/sudarshanan-santharam-9a596a192/](https://www.linkedin.com/in/sudarshanan-santharam-9a596a192/)
-- 📧 **Email**: [sudarshanangss@gmail.com](mailto:sudarshanangss@gmail.com), [S4085030@student.rmit.edu.au](mailto:S4085030@student.rmit.edu.au)
-- 🌐 **Personal Website**: [https://sudarshanangss.github.io/Personal-Website/](https://sudarshanangss.github.io/Personal-Website/)
+-  **LinkedIn**: [https://www.linkedin.com/in/sudarshanan-santharam-9a596a192/](https://www.linkedin.com/in/sudarshanan-santharam-9a596a192/)
+-  **Email**: [sudarshanangss@gmail.com](mailto:sudarshanangss@gmail.com), [S4085030@student.rmit.edu.au](mailto:S4085030@student.rmit.edu.au)
+-  **Personal Website**: [https://sudarshanangss.github.io/Personal-Website/](https://sudarshanangss.github.io/Personal-Website/)
 
 <!-- 
 ## Software Development Projects:
